@@ -1,5 +1,5 @@
 # Inventory Management
-#### Video Demo:  https://youtu.be/-_Yp49V6_bg
+#### Video Demo:  XXXXXX
 #### Description:
 
 My project is an inventory management system. It is designed to be intuitive and easy to use. It was designed to allow significantly easier introduction and migration to new features and tools. This was a design decision that shows in the fact that I have created two versions of the app. This program is designed to be a web app running in (Python) Flask and supports authentication. The webpages are made in HTML and CSS, and include JavaScript inside those files. The database management is written in SQL and uses the SQLAlchemy module.
